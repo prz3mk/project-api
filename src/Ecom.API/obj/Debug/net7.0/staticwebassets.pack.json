@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\quesh\\Desktop\\trybus\\api\\src\\Ecom.API\\wwwroot\\images\\products\\1s.png",
+      "PackagePath": "staticwebassets\\images\\products\\1s.png"
+    },
+    {
+      "Id": "C:\\Users\\quesh\\Desktop\\trybus\\api\\src\\Ecom.API\\wwwroot\\images\\products\\blacktravis.png",
+      "PackagePath": "staticwebassets\\images\\products\\blacktravis.png"
+    },
+    {
+      "Id": "C:\\Users\\quesh\\Desktop\\trybus\\api\\src\\Ecom.API\\wwwroot\\images\\products\\dunks1.png",
+      "PackagePath": "staticwebassets\\images\\products\\dunks1.png"
+    },
+    {
+      "Id": "C:\\Users\\quesh\\Desktop\\trybus\\api\\src\\Ecom.API\\wwwroot\\images\\products\\dunks2.png",
+      "PackagePath": "staticwebassets\\images\\products\\dunks2.png"
+    },
+    {
+      "Id": "C:\\Users\\quesh\\Desktop\\trybus\\api\\src\\Ecom.API\\wwwroot\\images\\products\\fragment.png",
+      "PackagePath": "staticwebassets\\images\\products\\fragment.png"
+    },
+    {
+      "Id": "C:\\Users\\quesh\\Desktop\\trybus\\api\\src\\Ecom.API\\wwwroot\\images\\products\\gap.png",
+      "PackagePath": "staticwebassets\\images\\products\\gap.png"
+    },
+    {
+      "Id": "C:\\Users\\quesh\\Desktop\\trybus\\api\\src\\Ecom.API\\wwwroot\\images\\products\\travis.png",
+      "PackagePath": "staticwebassets\\images\\products\\travis.png"
+    },
+    {
+      "Id": "C:\\Users\\quesh\\Desktop\\trybus\\api\\src\\Ecom.API\\wwwroot\\images\\products\\whitedunks.png",
+      "PackagePath": "staticwebassets\\images\\products\\whitedunks.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Ecom.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Ecom.API.props",
+      "PackagePath": "build\\Ecom.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecom.API.props",
+      "PackagePath": "buildMultiTargeting\\Ecom.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ecom.API.props",
+      "PackagePath": "buildTransitive\\Ecom.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

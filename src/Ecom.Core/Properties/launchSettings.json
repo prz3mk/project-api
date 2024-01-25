@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Ecom.Core": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\przem\\Desktop\\trybus\\Ecommerce-App-ASP.NET-Core-7-With-Angular-\\Ecom.sln"
+    }
+  }
+}
